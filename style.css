@@ -1,9 +1,39 @@
-head{
-background-color: aquamarine;
+
+  
+  .MMM {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-container img {
+    width: 30%;
+    height: auto;
+    margin: 10px;
+  }
+  
+.MMN{
+width: 100px;
+margin: 54px;
+
+}
+
+.geral1{
+
+    
+    grid-template-columns: 60%,60%,60%,60%,60%,;
+    margin-top:100px;
 
 
 }
-body{
 
-    
+.corpo1{
+background-color: red;
+
+
+
 }
