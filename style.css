@@ -2,31 +2,31 @@
   
   .MMM {
     text-align: center;
-    padding: 20px;
+    padding: 10px;
   }
   
   .image-container {
     display: flex;
-    justify-content: center;
+    justify-content:center;
   }
   
   .image-container img {
-    width: 30%;
-    height: auto;
-    margin: 10px;
+    width: 20%;
+    height: 400px;
+    margin: 31px;
   }
   
 .MMN{
-width: 100px;
-margin: 54px;
+width: 50px;
+margin: 60px;
 
 }
 
 .geral1{
 
     
-    grid-template-columns: 60%,60%,60%,60%,60%,;
-    margin-top:100px;
+  
+    margin-top:50px;
 
 
 }
